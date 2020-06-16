@@ -10,3 +10,7 @@ LibraryComponents/debug.log
 # Игнорирование отчетов и логов AD
 *.htm
 *.html
+
+# Игнорирование Папок с временными копиями, превью
+History/*
+_Previews/*
