@@ -1,4 +1,4 @@
-﻿[Design]
+[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -71,7 +71,79 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PEOCYCYU
 
+<<<<<<< HEAD
 [Document3]
+=======
+[Document2]
+DocumentPath=PESDxL1BA.Schlib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XNHDLGMH
+
+[Document3]
+DocumentPath=..\..\..\..\AD_Git_clone\AD_lib\Components\Pcb\Standart\LED-0805.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OTHJPIWN
+
+[Document4]
+DocumentPath=LED.Schlib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QXBZXNNS
+
+[Document5]
+DocumentPath=..\..\..\..\AD_Git_clone\AD_lib\Components\Pcb\Custom\LED-0805+Cyrcle.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KGVAEBAB
+
+[Document6]
+>>>>>>> A_Kozlov_3
 DocumentPath=..\..\Pcb\Standart\4116.4-3_offcut.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,8 +160,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+<<<<<<< HEAD
 [Document4]
 DocumentPath=2DS627A_2p.Schlib
+=======
+[Document7]
+DocumentPath=..\..\Pcb\Standart\SOD-323.PcbLib
+>>>>>>> A_Kozlov_3
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -103,6 +180,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD
 DocumentUniqueId=IPCOWAND
 
 [Document5]
@@ -121,6 +199,9 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XUCPKWNG
+=======
+DocumentUniqueId=KGVAEBAB
+>>>>>>> A_Kozlov_3
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -851,8 +932,6 @@ Type114=1
 Type115=1
 Type116=1
 Type117=1
-Type118=1
-Type119=1
 
 [Difference Levels]
 Type1=1
@@ -921,8 +1000,6 @@ Type63=1
 Type64=1
 Type65=1
 Type66=1
-Type67=1
-Type68=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1070,7 +1147,6 @@ L17=WNNNNNNNWNNNWWWWN
 [Annotate]
 SortOrder=3
 SortLocation=0
-ReplaceSubparts=0
 MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference

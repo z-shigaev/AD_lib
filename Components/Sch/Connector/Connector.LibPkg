@@ -1,4 +1,4 @@
-﻿[Design]
+[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -122,8 +122,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KDFQCQBG
 
+<<<<<<< HEAD
 [Document6]
 DocumentPath=..\..\Pcb\Connector\PLD2-8.PcbLib
+=======
+[Document5]
+DocumentPath=PLD2-2.Schlib
+>>>>>>> A_Kozlov_3
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137,9 +142,15 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD
 DocumentUniqueId=XUCPKWNG
 
 [Document7]
+=======
+DocumentUniqueId=IMGUWMKI
+
+[Document6]
+>>>>>>> A_Kozlov_3
 DocumentPath=..\..\Pcb\Connector\PLD2-20.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,6 +167,26 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XUCPKWNG
 
+<<<<<<< HEAD
+=======
+[Document7]
+DocumentPath=..\..\Pcb\Connector\PLD2-2.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XUCPKWNG
+
+>>>>>>> A_Kozlov_3
 [Document8]
 DocumentPath=..\..\Pcb\Connector\PLD2-20R.PcbLib
 AnnotationEnabled=1
@@ -174,7 +205,11 @@ GenerateClassCluster=0
 DocumentUniqueId=NWUWSLHM
 
 [Document9]
+<<<<<<< HEAD
 DocumentPath=PLD2-6.Schlib
+=======
+DocumentPath=..\..\Pcb\Connector\USB Micro-BF.PcbLib
+>>>>>>> A_Kozlov_3
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -188,10 +223,17 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD
 DocumentUniqueId=STRSDAWG
 
 [Document10]
 DocumentPath=..\..\Pcb\Connector\PLD2-6.PcbLib
+=======
+DocumentUniqueId=CPGXBLVI
+
+[Document10]
+DocumentPath=MicroUSB.Schlib
+>>>>>>> A_Kozlov_3
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -205,6 +247,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD
 DocumentUniqueId=XUCPKWNG
 
 [Document11]
@@ -240,6 +283,9 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPAJYSPB
+=======
+DocumentUniqueId=IGNLVQGA
+>>>>>>> A_Kozlov_3
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -970,8 +1016,6 @@ Type114=1
 Type115=1
 Type116=1
 Type117=1
-Type118=1
-Type119=1
 
 [Difference Levels]
 Type1=1
@@ -1040,8 +1084,6 @@ Type63=1
 Type64=1
 Type65=1
 Type66=1
-Type67=1
-Type68=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1189,7 +1231,6 @@ L17=WNNNNNNNWNNNWWWWN
 [Annotate]
 SortOrder=3
 SortLocation=0
-ReplaceSubparts=0
 MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference

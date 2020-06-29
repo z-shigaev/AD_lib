@@ -9,7 +9,7 @@ _______
 	* Components
 		* PCB
 			* Standart
-			* Castom
+			* Custom
 		* Sim
 		* Sch
 			* Buffer
@@ -34,12 +34,13 @@ _______
 				* DC_DC
 				* Linear_converter
 				* Step_down_converter
+				* Power_Sensors
 			* Resistor
 			* Transformer
 			* Transistor
 		* 3D-body
 			* Standart
-			* Castom
+			* Custom
 	* Template
 		* SchematicPage - стандартные листы для ЕСКД и ISO
 		* BoardPCB - шаблоны для печатных плат
