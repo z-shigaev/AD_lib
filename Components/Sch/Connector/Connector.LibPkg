@@ -38,6 +38,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=PLD2-10.Schlib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ERCKJYSP
+
+[Document2]
 DocumentPath=PLD2-20.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -54,7 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZGRDWRMZ
 
-[Document2]
+[Document3]
 DocumentPath=PLD2-12.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EGJRPDVX
 
-[Document3]
+[Document4]
 DocumentPath=..\..\Pcb\Connector\PLD2-12.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TLHQJASR
 
-[Document4]
+[Document5]
 DocumentPath=..\..\Pcb\Connector\SD87340-12.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPAJYSPB
 
-[Document5]
+[Document6]
 DocumentPath=..\..\Pcb\Connector\PLD2-12R.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,11 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KDFQCQBG
 
+<<<<<<< HEAD
 [Document6]
+=======
+[Document7]
+>>>>>>> A_Kozlov_4
 DocumentPath=..\..\Pcb\Connector\PLD2-8.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,8 +159,30 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+<<<<<<< HEAD
 
 [Document7]
+DocumentPath=..\..\Pcb\Connector\PLD2-20R.PcbLib
+=======
+
+[Document8]
+DocumentPath=..\..\Pcb\Connector\TestPoint.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XUCPKWNG
+
+[Document9]
 DocumentPath=..\..\Pcb\Connector\PLD2-20R.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +199,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NWUWSLHM
 
-[Document8]
+[Document10]
 DocumentPath=PLD2-6.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +216,87 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=STRSDAWG
 
+[Document11]
+DocumentPath=..\..\Pcb\Connector\PLS-6.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CPGXBLVI
+
+[Document12]
+DocumentPath=..\..\Pcb\Connector\PBD2-20S.PcbLib
+>>>>>>> A_Kozlov_4
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UPAJYSPB
+
+<<<<<<< HEAD
+[Document8]
+DocumentPath=PLD2-6.Schlib
+=======
+[Document13]
+DocumentPath=PLS-6.Schlib
+>>>>>>> A_Kozlov_4
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+<<<<<<< HEAD
+DocumentUniqueId=STRSDAWG
+
 [Document9]
+DocumentPath=..\..\Pcb\Connector\PLD2-6.PcbLib
+=======
+DocumentUniqueId=DMHFUOEI
+
+[Document14]
+DocumentPath=PLD2-2.Schlib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IMGUWMKI
+
+[Document15]
 DocumentPath=..\..\Pcb\Connector\PLD2-6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +313,65 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CPGXBLVI
 
+[Document16]
+DocumentPath=TP.Schlib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PEOCYCYU
+
+[Document17]
+DocumentPath=..\..\Pcb\Connector\PLD2-2.PcbLib
+>>>>>>> A_Kozlov_4
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+<<<<<<< HEAD
+DocumentUniqueId=CPGXBLVI
+
 [Document10]
+=======
+DocumentUniqueId=XUCPKWNG
+
+[Document18]
+DocumentPath=..\..\Pcb\Connector\PBD2-10S.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UPAJYSPB
+
+[Document19]
+>>>>>>> A_Kozlov_4
 DocumentPath=PLD2-8.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +388,11 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZCVZMTFU
 
+<<<<<<< HEAD
 [Document11]
+=======
+[Document20]
+>>>>>>> A_Kozlov_4
 DocumentPath=..\..\Pcb\Connector\SD87340-20.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -333,7 +518,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Phaser 7100N
+TargetPrinter=Kyocera ECOSYS M4132idn
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
