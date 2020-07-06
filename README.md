@@ -10,37 +10,41 @@ _______
 		* PCB
 			* Standart
 			* Custom
+			* Connector
+			* Module
 		* Sim
 		* Sch
-			* Buffer
-			* Capacitor
+			* Commutator
 			* Connector
 			* Diod
-			* Ic
+			* IC
 				* Adc
 				* Amplifier
 				* Dac
-				* Fpga
+				* FPGA
+				* Isolator
 				* Logic
 				* Mcu
 				* Memory
 				* Sensor
 				* Soc
-			* Inductor
+				* Tranciever
 			* Optical
 			* Oscilator
+			* Passive
+				* Capacitor
+				* Resistor
+				* Inductor
 			* Power
 				* AC_DC
 				* DC_DC
 				* Linear_converter
-				* Step_down_converter
-				* Power_Sensors
-			* Resistor
+				* Power_Monitor
+				* Step_Down_Converter
+			* Sensor
 			* Transformer
 			* Transistor
 		* 3D-body
-			* Standart
-			* Custom
 	* Template
 		* SchematicPage - стандартные листы для ЕСКД и ISO
 		* BoardPCB - шаблоны для печатных плат
@@ -50,6 +54,7 @@ _______
 		* Fonts - шрифты, для совместимости отображения проектов
 		* BOM - настройки для генерации ЕСКД-списков
 		* Projects - настройки проектов
+		* Scripts - различные внешние скрипты для упрощения работы
 
 # Установка библиотеки
 
@@ -62,7 +67,7 @@ git clone https://github.com/a-styuf/AD_lib.git
 ![Список файлов]()
 
 Все библиотеки состоят из следующих файлов: 
-> .LibPcg - для сборки всех schlib в один файл    
+> .LibPcg - для сборки всех schlib из отдельной папки в один файл    
 > .SchLib - по одному для каждого компонента  
 > .PcbLib - по одному для каждого корпуса  
 > .step - по одному для каждого корпуса  

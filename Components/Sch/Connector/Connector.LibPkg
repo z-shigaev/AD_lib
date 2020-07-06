@@ -139,16 +139,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KDFQCQBG
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-[Document6]
-=======
 [Document7]
->>>>>>> A_Kozlov_4
-=======
-[Document7]
->>>>>>> A_Kozlov_4
-DocumentPath=..\..\Pcb\Connector\PLD2-8.PcbLib
+DocumentPath=..\..\Pcb\Connector\TestPoint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -163,35 +155,8 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-[Document7]
-DocumentPath=..\..\Pcb\Connector\PLD2-20R.PcbLib
-=======
 
 [Document8]
-DocumentPath=..\..\Pcb\Connector\TestPoint.PcbLib
-=======
-
-[Document8]
-DocumentPath=..\..\Pcb\Connector\TestPoint.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XUCPKWNG
-
-[Document9]
 DocumentPath=..\..\Pcb\Connector\PLD2-20R.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,9 +173,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NWUWSLHM
 
-[Document10]
+[Document9]
 DocumentPath=PLD2-6.Schlib
->>>>>>> A_Kozlov_4
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -226,13 +190,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=STRSDAWG
 
-<<<<<<< HEAD
-[Document9]
-DocumentPath=..\..\Pcb\Connector\PLD2-20R.PcbLib
-=======
-[Document11]
+[Document10]
 DocumentPath=..\..\Pcb\Connector\PLS-6.PcbLib
->>>>>>> A_Kozlov_4
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -246,17 +205,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-<<<<<<< HEAD
 DocumentUniqueId=NWUWSLHM
 
-[Document10]
-DocumentPath=PLD2-6.Schlib
-=======
-DocumentUniqueId=CPGXBLVI
-
-[Document12]
+[Document11]
 DocumentPath=..\..\Pcb\Connector\PBD2-20S.PcbLib
->>>>>>> A_Kozlov_4
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -270,29 +222,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-<<<<<<< HEAD
 DocumentUniqueId=STRSDAWG
 
-[Document11]
-DocumentPath=..\..\Pcb\Connector\PLS-6.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CPGXBLVI
-
 [Document12]
-DocumentPath=..\..\Pcb\Connector\PBD2-20S.PcbLib
->>>>>>> A_Kozlov_4
+DocumentPath=PLS-6.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -308,41 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPAJYSPB
 
-<<<<<<< HEAD
-[Document8]
-DocumentPath=PLD2-6.Schlib
-=======
 [Document13]
-DocumentPath=PLS-6.Schlib
->>>>>>> A_Kozlov_4
-=======
-DocumentUniqueId=UPAJYSPB
-
-[Document13]
-DocumentPath=PLS-6.Schlib
->>>>>>> A_Kozlov_4
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DMHFUOEI
-
-<<<<<<< HEAD
-[Document9]
-DocumentPath=..\..\Pcb\Connector\PLD2-6.PcbLib
-=======
-DocumentUniqueId=DMHFUOEI
-
-[Document14]
 DocumentPath=PLD2-2.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -359,11 +258,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IMGUWMKI
 
-[Document15]
-DocumentPath=..\..\Pcb\Connector\PLD2-6.PcbLib
-=======
 [Document14]
-DocumentPath=PLD2-2.Schlib
+DocumentPath=..\..\Pcb\Connector\PLD2-6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -377,27 +273,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IMGUWMKI
+DocumentUniqueId=
 
 [Document15]
-DocumentPath=..\..\Pcb\Connector\PLD2-6.PcbLib
->>>>>>> A_Kozlov_4
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CPGXBLVI
-
-[Document16]
 DocumentPath=TP.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -414,12 +292,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PEOCYCYU
 
-[Document17]
+[Document16]
 DocumentPath=..\..\Pcb\Connector\PLD2-2.PcbLib
-<<<<<<< HEAD
->>>>>>> A_Kozlov_4
-=======
->>>>>>> A_Kozlov_4
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -433,17 +307,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-<<<<<<< HEAD
-<<<<<<< HEAD
 DocumentUniqueId=CPGXBLVI
 
-[Document10]
-=======
-=======
->>>>>>> A_Kozlov_4
-DocumentUniqueId=XUCPKWNG
-
-[Document18]
+[Document17]
 DocumentPath=..\..\Pcb\Connector\PBD2-10S.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -460,11 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPAJYSPB
 
-[Document19]
-<<<<<<< HEAD
->>>>>>> A_Kozlov_4
-=======
->>>>>>> A_Kozlov_4
+[Document18]
 DocumentPath=PLD2-8.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -480,31 +342,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZCVZMTFU
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-[Document11]
-=======
-[Document20]
->>>>>>> A_Kozlov_4
-=======
-[Document20]
->>>>>>> A_Kozlov_4
-DocumentPath=..\..\Pcb\Connector\SD87340-20.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UPAJYSPB
 
 [OutputGroup1]
 Name=Netlist Outputs
