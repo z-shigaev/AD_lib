@@ -1,0 +1,15 @@
+Component   : TXH 060-148
+PCB Library : TXH 060-148.PcbLib
+Date        : 27.07.2020
+Time        : 19:52:20
+
+
+
+Dimension : 3.961 x 2.35 in
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Multi Layer                 7          0        0       0        0
+ Top Overlay                 0          4        0       1        0
+--------------------------------------------------------------------
+ Total                       7          4        0       1        0
