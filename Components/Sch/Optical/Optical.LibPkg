@@ -38,6 +38,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\..\Pcb\Standart\401.14-4.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XUCPKWNG
+
+[Document2]
 DocumentPath=249KP1.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -53,23 +70,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PEOCYCYU
-
-[Document2]
-DocumentPath=..\..\Pcb\Standart\401.16-3.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XUCPKWNG
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -180,7 +180,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Phaser 7100N
+TargetPrinter=Kyocera ECOSYS M4132idn
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
