@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KUDGJYPT
+DocumentUniqueId=YVCAUEBN
 
 [Document3]
 DocumentPath=PLD2-12.Schlib
@@ -259,6 +259,23 @@ GenerateClassCluster=0
 DocumentUniqueId=IMGUWMKI
 
 [Document14]
+DocumentPath=RP.Schlib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PEOCYCYU
+
+[Document15]
 DocumentPath=..\..\Pcb\Connector\PLD2-6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +292,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document16]
+DocumentPath=..\..\Pcb\Connector\ReperPoint.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XUCPKWNG
+
+[Document17]
 DocumentPath=TP.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -290,9 +324,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PEOCYCYU
+DocumentUniqueId=CYHHNLVH
 
-[Document16]
+[Document18]
 DocumentPath=..\..\Pcb\Connector\PLD2-2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CPGXBLVI
 
-[Document17]
+[Document19]
 DocumentPath=..\..\Pcb\Connector\PBD2-10S.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPAJYSPB
 
-[Document18]
+[Document20]
 DocumentPath=PLD2-8.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZCVZMTFU
 
-[Document19]
+[Document21]
 DocumentPath=..\..\Pcb\Connector\SD87340-20.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -959,6 +993,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
