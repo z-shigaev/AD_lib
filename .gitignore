@@ -14,3 +14,7 @@ LibraryComponents/debug.log
 # Игнорирование Папок с временными копиями, превью
 History/*
 _Previews/*
+
+Components/Sch/IC/Adc/History/
+
+Components/Sch/IC/Amplifier/History/
