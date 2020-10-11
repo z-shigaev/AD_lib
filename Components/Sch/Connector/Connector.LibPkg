@@ -1,4 +1,4 @@
-﻿[Design]
+[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -69,11 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-<<<<<<< HEAD
-DocumentUniqueId=YVCAUEBN
-=======
-DocumentUniqueId=YHTYHUID
->>>>>>> A_Pelemeshko
+DocumentUniqueId=AAHEBUJV
 
 [Document3]
 DocumentPath=Header 2X12.Schlib
@@ -124,7 +120,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XUCPKWNG
+DocumentUniqueId=BNHHUIFH
 
 [Document6]
 DocumentPath=..\..\Pcb\Connector\PLD2-12.PcbLib
@@ -243,11 +239,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-<<<<<<< HEAD
 DocumentUniqueId=DMHFUOEI
-=======
-DocumentUniqueId=STRSDAWG
->>>>>>> A_Pelemeshko
 
 [Document13]
 DocumentPath=..\..\Pcb\Connector\PBD-4.PcbLib
@@ -267,7 +259,6 @@ GenerateClassCluster=0
 DocumentUniqueId=GFVLNTNC
 
 [Document14]
-<<<<<<< HEAD
 DocumentPath=RP.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -285,27 +276,6 @@ GenerateClassCluster=0
 DocumentUniqueId=PEOCYCYU
 
 [Document15]
-DocumentPath=..\..\Pcb\Connector\PLD2-6.PcbLib
-=======
-DocumentPath=..\..\Pcb\Connector\PBD-2.PcbLib
->>>>>>> A_Pelemeshko
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BNHHUIFH
-
-<<<<<<< HEAD
-[Document16]
 DocumentPath=..\..\Pcb\Connector\ReperPoint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -322,92 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XUCPKWNG
 
-[Document17]
-DocumentPath=TP.Schlib
-=======
-[Document15]
-DocumentPath=..\..\Pcb\Connector\PBD-6.PcbLib
->>>>>>> A_Pelemeshko
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NJAROVKQ
-
-<<<<<<< HEAD
-[Document18]
-DocumentPath=..\..\Pcb\Connector\PLD2-2.PcbLib
-=======
 [Document16]
-DocumentPath=..\..\Pcb\Connector\PBD2-6.PcbLib
->>>>>>> A_Pelemeshko
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AUKMGSBO
-
-<<<<<<< HEAD
-[Document19]
-=======
-[Document17]
-DocumentPath=..\..\Pcb\Connector\PBD-8.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FNMYOIWO
-
-[Document18]
->>>>>>> A_Pelemeshko
-DocumentPath=..\..\Pcb\Connector\PBD2-10S.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UPAJYSPB
-
-<<<<<<< HEAD
-[Document20]
-DocumentPath=PLD2-8.Schlib
-=======
-[Document19]
 DocumentPath=TP.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -422,26 +307,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PEOCYCYU
+DocumentUniqueId=MRKHSVXT
 
-[Document20]
-DocumentPath=Header 2X2.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VKVDLGEE
-
-[Document21]
+[Document17]
 DocumentPath=Header 2X4.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -458,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=APNFVZTH
 
-[Document22]
+[Document18]
 DocumentPath=Header 2X6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -475,9 +343,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LAJBNMOX
 
-[Document23]
+[Document19]
 DocumentPath=Header 2X8.Schlib
->>>>>>> A_Pelemeshko
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -493,13 +360,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZCVZMTFU
 
-<<<<<<< HEAD
-[Document21]
-DocumentPath=..\..\Pcb\Connector\SD87340-20.PcbLib
-=======
-[Document24]
+[Document20]
 DocumentPath=..\..\Pcb\Connector\PBD-12.PcbLib
->>>>>>> A_Pelemeshko
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -513,15 +375,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-<<<<<<< HEAD
 DocumentUniqueId=
 
-[Document22]
-DocumentPath=235-403.Schlib
-=======
-DocumentUniqueId=MVDSGABO
-
-[Document25]
+[Document21]
 DocumentPath=..\..\Pcb\Connector\PBD-20.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -538,9 +394,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QALOXCKN
 
-[Document26]
-DocumentPath=USB-B-S-X-X-TH.SchLib
->>>>>>> A_Pelemeshko
+[Document22]
+DocumentPath=Header 2X10 single.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -554,17 +409,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-<<<<<<< HEAD
-DocumentUniqueId=DMHFUOEI
+DocumentUniqueId=VWGUUPSU
 
 [Document23]
-DocumentPath=..\..\Pcb\Connector\235-403.PcbLib
-=======
-DocumentUniqueId=ZZAZBCNI
-
-[Document27]
-DocumentPath=..\..\Pcb\Connector\USB-B-S-X-X-TH.PcbLib
->>>>>>> A_Pelemeshko
+DocumentPath=..\..\Pcb\Connector\PLD2-10.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -578,20 +426,46 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-<<<<<<< HEAD
+DocumentUniqueId=SLEBYCDJ
+
+[Document24]
+DocumentPath=USB-B-S-X-X-TH.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZZAZBCNI
+
+[Document25]
+DocumentPath=..\..\Pcb\Connector\USB-B-S-X-X-TH.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
 DocumentUniqueId=CPGXBLVI
-=======
-DocumentUniqueId=
->>>>>>> A_Pelemeshko
 
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-<<<<<<< HEAD
-TargetPrinter=OneNote for Windows 10
-=======
-TargetPrinter=ECOSYS M4132idn
->>>>>>> A_Pelemeshko
+TargetPrinter=Send To OneNote 2016
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -697,11 +571,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-<<<<<<< HEAD
-TargetPrinter=OneNote for Windows 10
-=======
-TargetPrinter=ECOSYS M4132idn
->>>>>>> A_Pelemeshko
+TargetPrinter=Send To OneNote 2016
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -779,11 +649,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-<<<<<<< HEAD
-TargetPrinter=OneNote for Windows 10
-=======
-TargetPrinter=ECOSYS M4132idn
->>>>>>> A_Pelemeshko
+TargetPrinter=Send To OneNote 2016
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -805,11 +671,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-<<<<<<< HEAD
-TargetPrinter=OneNote for Windows 10
-=======
-TargetPrinter=ECOSYS M4132idn
->>>>>>> A_Pelemeshko
+TargetPrinter=Send To OneNote 2016
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -881,11 +743,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-<<<<<<< HEAD
-TargetPrinter=OneNote for Windows 10
-=======
-TargetPrinter=ECOSYS M4132idn
->>>>>>> A_Pelemeshko
+TargetPrinter=Send To OneNote 2016
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -922,11 +780,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-<<<<<<< HEAD
-TargetPrinter=OneNote for Windows 10
-=======
-TargetPrinter=ECOSYS M4132idn
->>>>>>> A_Pelemeshko
+TargetPrinter=Send To OneNote 2016
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1106,11 +960,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-<<<<<<< HEAD
-TargetPrinter=OneNote for Windows 10
-=======
-TargetPrinter=ECOSYS M4132idn
->>>>>>> A_Pelemeshko
+TargetPrinter=Send To OneNote 2016
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -1154,11 +1004,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-<<<<<<< HEAD
-TargetPrinter=OneNote for Windows 10
-=======
-TargetPrinter=ECOSYS M4132idn
->>>>>>> A_Pelemeshko
+TargetPrinter=Send To OneNote 2016
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1219,11 +1065,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-<<<<<<< HEAD
-TargetPrinter=OneNote for Windows 10
-=======
-TargetPrinter=ECOSYS M4132idn
->>>>>>> A_Pelemeshko
+TargetPrinter=Send To OneNote 2016
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1349,8 +1191,6 @@ Type114=1
 Type115=1
 Type116=1
 Type117=1
-Type118=1
-Type119=1
 
 [Difference Levels]
 Type1=1
@@ -1419,8 +1259,6 @@ Type63=1
 Type64=1
 Type65=1
 Type66=1
-Type67=1
-Type68=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1568,7 +1406,6 @@ L17=WNNNNNNNWNNNWWWWN
 [Annotate]
 SortOrder=3
 SortLocation=0
-ReplaceSubparts=0
 MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
