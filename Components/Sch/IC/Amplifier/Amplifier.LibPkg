@@ -38,6 +38,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\..\..\Pcb\Standart\MSOP-8.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document2]
 DocumentPath=..\..\..\Pcb\Standart\SOIC-8.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -54,7 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IXTWIFII
 
-[Document2]
+[Document3]
 DocumentPath=..\..\..\Pcb\Standart\MSOP-10.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +88,11 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OKHUAAVE
 
+<<<<<<< HEAD
 [Document3]
+=======
+[Document4]
+>>>>>>> A-Pelemeshko2
 DocumentPath=AD8608.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -86,9 +107,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OLSOCYOR
+DocumentUniqueId=SXRNJLQC
 
-[Document4]
+[Document5]
 DocumentPath=1487UD1.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +126,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFHBEJUT
 
-[Document5]
+[Document6]
 DocumentPath=..\..\..\Pcb\Standart\HO2.8-1B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,6 +143,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XUCPKWNG
 
+<<<<<<< HEAD
 [Document6]
 DocumentPath=..\..\..\Pcb\Standart\SOT23-5.PcbLib
 AnnotationEnabled=1
@@ -139,6 +161,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NMGRUNQW
 
+=======
+>>>>>>> A-Pelemeshko2
 [Document7]
 DocumentPath=..\..\..\Pcb\Standart\SOIC-14.PcbLib
 AnnotationEnabled=1
@@ -174,6 +198,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XNHDLGMH
 
 [Document9]
+<<<<<<< HEAD
 DocumentPath=AD8033.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,6 +233,8 @@ GenerateClassCluster=0
 DocumentUniqueId=AREFMKDC
 
 [Document11]
+=======
+>>>>>>> A-Pelemeshko2
 DocumentPath=ADA4062-2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -222,9 +249,15 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD
 DocumentUniqueId=SRUYRWLN
 
 [Document12]
+=======
+DocumentUniqueId=OLSOCYOR
+
+[Document10]
+>>>>>>> A-Pelemeshko2
 DocumentPath=LM358ADR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,10 +274,27 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TNFUCMCE
 
+[Document11]
+DocumentPath=..\..\..\Pcb\Standart\SOIC-8_ExpPad.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Kyocera ECOSYS M4132idn
+TargetPrinter=ECOSYS M4132idn
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -350,7 +400,11 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
+<<<<<<< HEAD
 TargetPrinter=Phaser 7100N
+=======
+TargetPrinter=ECOSYS M4132idn
+>>>>>>> A-Pelemeshko2
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -428,7 +482,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Kyocera ECOSYS M4132idn
+TargetPrinter=ECOSYS M4132idn
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -450,7 +504,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Kyocera ECOSYS M4132idn
+TargetPrinter=ECOSYS M4132idn
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -522,7 +576,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Kyocera ECOSYS M4132idn
+TargetPrinter=ECOSYS M4132idn
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -559,7 +613,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Kyocera ECOSYS M4132idn
+TargetPrinter=ECOSYS M4132idn
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -739,7 +793,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Kyocera ECOSYS M4132idn
+TargetPrinter=ECOSYS M4132idn
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -783,7 +837,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Kyocera ECOSYS M4132idn
+TargetPrinter=ECOSYS M4132idn
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -874,7 +928,7 @@ OutputDefault17=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Kyocera ECOSYS M4132idn
+TargetPrinter=ECOSYS M4132idn
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
