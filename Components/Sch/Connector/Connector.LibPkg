@@ -326,7 +326,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD
 DocumentUniqueId=ECUQPXAO
+=======
+DocumentUniqueId=PRNJAFBX
+>>>>>>> A-Pelemeshko2
 
 [Document18]
 DocumentPath=Header 2X4.SchLib
@@ -498,6 +502,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XUCPKWNG
 
+<<<<<<< HEAD
 [Document28]
 DocumentPath=Header 9.SchLib
 AnnotationEnabled=1
@@ -568,6 +573,10 @@ DocumentUniqueId=IUNJYMSQ
 
 [Document32]
 DocumentPath=..\..\Pcb\Connector\MDM-31.PcbLib
+=======
+[Document26]
+DocumentPath=..\..\Pcb\Connector\SNP411-31.PcbLib
+>>>>>>> A-Pelemeshko2
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -583,7 +592,11 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CPGXBLVI
 
+<<<<<<< HEAD
 [Document33]
+=======
+[Document27]
+>>>>>>> A-Pelemeshko2
 DocumentPath=..\..\Pcb\Connector\MDM-15.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -600,7 +613,11 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CPGXBLVI
 
+<<<<<<< HEAD
 [Document34]
+=======
+[Document28]
+>>>>>>> A-Pelemeshko2
 DocumentPath=..\..\Pcb\Connector\MDM-9.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
