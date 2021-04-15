@@ -326,11 +326,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-<<<<<<< HEAD
 DocumentUniqueId=ECUQPXAO
-=======
-DocumentUniqueId=CBGEAOTO
->>>>>>> A_Kozlov9
 
 [Document18]
 DocumentPath=Header 2X4.SchLib
@@ -672,8 +668,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IRNWKNPF
 
-[Document29]
-DocumentPath=SNP411-31.Schlib
+[Document38]
+DocumentPath=History\Connector.~(16).LibPkg.Zip
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -687,10 +683,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YVQAEVVG
+DocumentUniqueId=
 
-[Document30]
-DocumentPath=MDM-31.Schlib
+[Document39]
+DocumentPath=EPG.0B.302.HLN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -704,10 +700,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WGPTLTIT
+DocumentUniqueId=ONLVAEBU
 
-[Document31]
-DocumentPath=MDM-9.Schlib
+[Document40]
+DocumentPath=EPY.00.250.NTN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -721,10 +717,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GNFHGISY
+DocumentUniqueId=MJWPFSCT
 
-[Document32]
-DocumentPath=MDM-15.Schlib
+[Document41]
+DocumentPath=..\..\Pcb\Connector\EPG.0B.302.HLN.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -738,7 +734,58 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WSEQLLLC
+DocumentUniqueId=LKVTXMBF
+
+[Document42]
+DocumentPath=..\..\Pcb\Connector\EPK.00.250.NTN.PCBLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OXEOQEQG
+
+[Document43]
+DocumentPath=EPK.00.250.NTN.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NVUGLUYQ
+
+[Document44]
+DocumentPath=..\..\Pcb\Connector\EPY.00.250.NTN.PCBLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IJWABLIR
 
 [OutputGroup1]
 Name=Netlist Outputs
