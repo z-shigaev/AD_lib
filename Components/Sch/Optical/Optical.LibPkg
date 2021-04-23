@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PEOCYCYU
 
 [Document3]
-DocumentPath=PVAZ172N.Schlib
+DocumentPath=КР293КП4А.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,6 +89,23 @@ GenerateClassCluster=0
 DocumentUniqueId=XNHDLGMH
 
 [Document4]
+DocumentPath=PVAZ172N.Schlib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XNHDLGMH
+
+[Document5]
 DocumentPath=..\..\Pcb\Standart\DIP-8.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
