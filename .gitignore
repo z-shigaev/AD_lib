@@ -45,4 +45,12 @@ Components/Sch/Power/Power_Monitor/History/
 
 Components/Sch/Optical/History/
 
+<<<<<<< HEAD
 Components/Sch/IC/PLL/History/
+=======
+Components/Sch/IC/Suppressors (TVS)/History/
+
+Components/Sch/Power/AC_DC/History/
+
+Components/Sch/Transistor/History/
+>>>>>>> Toyotarunx2001
