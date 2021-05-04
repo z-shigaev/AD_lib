@@ -67,7 +67,7 @@ git clone https://github.com/a-styuf/AD_lib.git
 ![Список файлов]()
 
 Все библиотеки состоят из следующих файлов: 
-> .LibPcg - для сборки всех schlib из отдельной папки в один файл    
+> .LibPcg - для сборки всех schlib из отдельной папки в один файл
 > .SchLib - по одному для каждого компонента  
 > .PcbLib - по одному для каждого корпуса  
 > .step - по одному для каждого корпуса  
@@ -92,4 +92,3 @@ git clone https://github.com/a-styuf/AD_lib.git
 ------
 ------
 Контакты руководителя проекта: [a-styuf@yandex.ru](a-styuf@yandex.ru)  
-

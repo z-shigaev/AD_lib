@@ -12,45 +12,6 @@ LibraryComponents/debug.log
 *.html
 
 # Игнорирование Папок с временными копиями, превью
-History/*
-_Previews/*
-
-Components/Sch/IC/Adc/History/
-
-Components/Sch/IC/Amplifier/History/
-
-Components/Sch/Connector/History/
-
-Components/Pcb/Custom/History/
-
-Components/Pcb/Standart/History/
-
-Components/Sch/IC/Dac/History/
-
-Components/Sch/IC/FPGA/History/
-
-Components/Sch/IC/Logic/History/
-
-Components/Sch/Power/Linear_Converter/History/
-
-Components/Pcb/Connector/History/
-
-Components/Sch/Power/DC_DC/History/
-
-Tempalte/Scripts/dir_stracture.txt
-
-Components/Sch/Power/Fuse/History/
-
-Components/Sch/Power/Power_Monitor/History/
-
-Components/Sch/Optical/History/
-
-<<<<<<< HEAD
-Components/Sch/IC/PLL/History/
-=======
-Components/Sch/IC/Suppressors (TVS)/History/
-
-Components/Sch/Power/AC_DC/History/
-
-Components/Sch/Transistor/History/
->>>>>>> Toyotarunx2001
+**/Project Outputs for *
+**/History
+**/_Previews
