@@ -615,7 +615,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GKXTLPCY
+DocumentUniqueId=KNFMTDYF
 
 [Document35]
 DocumentPath=..\..\Pcb\Connector\PLS2-2.PcbLib
@@ -973,6 +973,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CPGXBLVI
+
+[Document56]
+DocumentPath=..\..\Pcb\Connector\MicroUSB-Molex-105017.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PESIUBRL
 
 [OutputGroup1]
 Name=Netlist Outputs
