@@ -1059,7 +1059,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JOGAVYIL
 
-[Document56]
+[Document61]
 DocumentPath=PCIe_x1_edge.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1076,7 +1076,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UUWMWSRW
 
-[Document57]
+[Document62]
 DocumentPath=..\..\Pcb\Connector\PCIe_x1_edge.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1093,7 +1093,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HTRPOBME
 
-[Document58]
+[Document63]
 DocumentPath=74441-0001.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1110,7 +1110,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MAWZFYAK
 
-[Document59]
+[Document64]
 DocumentPath=..\..\Pcb\Connector\74441-0001.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1127,7 +1127,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GCXUDEUW
 
-[Document60]
+[Document65]
 DocumentPath=74754-0220.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1144,7 +1144,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LGYUIZYP
 
-[Document61]
+[Document66]
 DocumentPath=..\..\Pcb\Connector\74754-0220.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1160,6 +1160,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FDDUXELU
+
+[Document67]
+DocumentPath=L826-1X1T-43-F.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DUARLXFN
 
 [OutputGroup1]
 Name=Netlist Outputs
