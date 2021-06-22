@@ -3,7 +3,10 @@
 
 _______
 Библиотека разработана для совместной работы инженеров НГУ. Компоненты проверены и используются в 'боевых' проектах.
-![Пример sch](https://raw.githubusercontent.com/a-styuf/AD_lib/master/Documents/img/sch_example.png) ![Пример pcb](https://raw.githubusercontent.com/a-styuf/AD_lib/master/Documents/img/3d_pcb_example.png)
+
+![Пример sch](https://raw.githubusercontent.com/a-styuf/AD_lib/master/Documents/img/sch_example.png) 
+![Пример pcb](https://raw.githubusercontent.com/a-styuf/AD_lib/master/Documents/img/3d_pcb_example.png)
+
 Любое использование свободно и "на свой страх и риск".  
 Вдохновлено проектом [данного автора](https://github.com/gardarica/altium-library.git).  
 
