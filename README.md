@@ -3,7 +3,7 @@
 
 _______
 Библиотека разработана для совместной работы инженеров НГУ. Компоненты проверены и используются в 'боевых' проектах.
-![Пример sch](\Documents\img\sch_example.png) ![Пример pcb](\Documents\img\3d_pcb_example.png)
+![Пример sch](https://raw.githubusercontent.com/a-styuf/AD_lib/master/Documents/img/sch_example.png) ![Пример pcb](https://raw.githubusercontent.com/a-styuf/AD_lib/master/Documents/img/3d_pcb_example.png)
 Любое использование свободно и "на свой страх и риск".  
 Вдохновлено проектом [данного автора](https://github.com/gardarica/altium-library.git).  
 
@@ -36,12 +36,12 @@ _______
 Скачайте архив с библиотекой или клонируйте репозиторий к себе на локальный диск:
 
 ```batch
-git clone https://github.com/a-styuf/AD_lib.git
+git clone https://raw.githubusercontent.com/a-styuf/AD_lib.git
 ```
 
 После этого переходите в папку *Components\\Sch\\...* и видите список файлов библиотеки компонентов:
 
-![Список файлов](Documents/Img/tree_to_sch.png)
+![Список файлов](https://raw.githubusercontent.com/a-styuf/AD_lib/master/Documents/img/tree_to_sch.png)
 
 Все библиотеки состоят из следующих файлов:
 > .LibPcg *- для сборки всех schlib из отдельной папки (по функционалу) в один файл*
@@ -51,12 +51,12 @@ git clone https://github.com/a-styuf/AD_lib.git
 
 Для установки нужной библиотеки откройте файл с расширением ***.LibPkg*** в Altium Designer, например, ***Connector.LibPkg*** и у вас в дереве проектов появится библиотека и все компоненты внутри неё:
 
-![Пример дерева проекта LibPcg](\Documents\img\connector_libpcg_example.png)
+![Пример дерева проекта LibPcg](https://raw.githubusercontent.com/a-styuf/AD_lib/master/Documents/img/connector_libpcg_example.png)
 
 Теперь нажимайте правой кнопкой мыши на название проекта и выбирайте пункт ***Compile Integrated Library***:
 После этого у вас скомпилируется проект библиотеки, автоматически подключится к Altium Designer и появится в списке библиотек:
 
-![меню Compoents](\Documents\img\ad_component_example.png)
+![меню Compoents](https://raw.githubusercontent.com/a-styuf/AD_lib/master/Documents/img/ad_component_example.png)
 
 # Инструкция для создания схематика компонента
 
@@ -76,7 +76,7 @@ git clone https://github.com/a-styuf/AD_lib.git
    1. При необходимости допускается создавать любо количество дополнительных полей для описания компонента.
 7. *PartChoises* - ссылка на компонент из базы данных AD (при наличии).
 
-![Schematic Lib Properties](\Documents\img\schematic_lib_properties.png)
+![Schematic Lib Properties](https://raw.githubusercontent.com/a-styuf/AD_lib/master/Documents/img/schematic_lib_properties.png)
 
 # Инструкция для создания футпринта
 
