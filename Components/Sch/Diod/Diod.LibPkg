@@ -55,7 +55,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KGVAEBAB
 
 [Document2]
 DocumentPath=2DS627A.Schlib
@@ -140,7 +140,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KGVAEBAB
+DocumentUniqueId=RHKSKQFQ
 
 [Document7]
 DocumentPath=PESD2CAN.Schlib
@@ -191,7 +191,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XUCPKWNG
 
 [Document10]
 DocumentPath=PESDxL1BA.Schlib
@@ -347,7 +347,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FMIORFCO
 
 [Document19]
-DocumentPath=..\..\Pcb\Standart\WQFN-12_EP_4x4_0.8mm.PcbLib
+DocumentPath=..\..\Pcb\Standart\SOD-123.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -361,7 +361,24 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TVIQHMWQ
+DocumentUniqueId=ROUMGBDS
+
+[Document20]
+DocumentPath=DIODE.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BQRBYOMI
 
 [OutputGroup1]
 Name=Netlist Outputs
