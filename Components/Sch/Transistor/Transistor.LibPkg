@@ -225,6 +225,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
+DocumentPath=..\..\Pcb\Standart\TO5-6.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XUCPKWNG
+
+[Document13]
 DocumentPath=N-MOSFET.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +258,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YDRRYRAB
 
-[Document13]
+[Document14]
+DocumentPath=TRAD.Schlib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RYUQNBXW
+
+[Document15]
 DocumentPath=NPN.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -256,9 +290,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GKCQYUBW
+DocumentUniqueId=AUVPPTFK
 
-[Document14]
+[Document16]
 DocumentPath=P-MOSFET.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -418,7 +452,11 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
+<<<<<<< HEAD
 TargetPrinter=Kyocera ECOSYS M4132idn
+=======
+TargetPrinter=ECOSYS M4132idn
+>>>>>>> a_kozlov_8
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1269,6 +1307,10 @@ Type119=3
 MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
+<<<<<<< HEAD
+=======
+Type123=1
+>>>>>>> a_kozlov_8
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
