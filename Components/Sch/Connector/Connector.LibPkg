@@ -23,11 +23,13 @@ DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
+AutoSheetNumbering=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -89,23 +91,6 @@ GenerateClassCluster=0
 DocumentUniqueId=EGJRPDVX
 
 [Document4]
-DocumentPath=Header 1X7.Schlib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VWGUUPSU
-
-[Document5]
 DocumentPath=..\..\Pcb\Connector\PLD2-2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +107,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XUCPKWNG
 
-[Document6]
+[Document5]
 DocumentPath=..\..\Pcb\Connector\PLD2-6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +124,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YTGKDLKH
 
-[Document7]
+[Document6]
 DocumentPath=..\..\Pcb\Connector\PLD2-12.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +141,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TLHQJASR
 
-[Document8]
+[Document7]
 DocumentPath=..\..\Pcb\Connector\SD87340-12.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +158,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPAJYSPB
 
-[Document9]
+[Document8]
 DocumentPath=..\..\Pcb\Connector\PLD2-12R.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +175,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KDFQCQBG
 
-[Document10]
+[Document9]
 DocumentPath=..\..\Pcb\Connector\TestPoint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +192,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=..\..\Pcb\Connector\PLD2-20R.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +209,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NWUWSLHM
 
-[Document12]
+[Document11]
 DocumentPath=..\..\Pcb\Connector\PLS-6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +226,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CPGXBLVI
 
-[Document13]
+[Document12]
 DocumentPath=..\..\Pcb\Connector\PBD2-20S.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +243,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPAJYSPB
 
-[Document14]
+[Document13]
 DocumentPath=..\..\Pcb\Connector\PBD-4.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,8 +260,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GFVLNTNC
 
-[Document15]
-DocumentPath=Header 1x3.SchLib
+[Document14]
+DocumentPath=Header 1x4.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -292,7 +277,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BUIKSXGG
 
-[Document16]
+[Document15]
 DocumentPath=RP.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +294,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PEOCYCYU
 
-[Document17]
+[Document16]
 DocumentPath=..\..\Pcb\Connector\ReperPoint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +311,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XUCPKWNG
 
-[Document18]
+[Document17]
 DocumentPath=TP.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +328,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ECUQPXAO
 
-[Document19]
+[Document18]
 DocumentPath=Header 2X4.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +345,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=APNFVZTH
 
-[Document20]
+[Document19]
 DocumentPath=Header 2X6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +362,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LAJBNMOX
 
-[Document21]
+[Document20]
 DocumentPath=Header 2X8.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +379,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZCVZMTFU
 
-[Document22]
+[Document21]
 DocumentPath=..\..\Pcb\Connector\PLS-3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +396,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CPGXBLVI
 
-[Document23]
+[Document22]
 DocumentPath=..\..\Pcb\Connector\PBD-12.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +413,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MVDSGABO
 
-[Document24]
+[Document23]
 DocumentPath=..\..\Pcb\Connector\PBD-20.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +430,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QALOXCKN
 
-[Document25]
+[Document24]
 DocumentPath=USB-B-S-X-X-TH.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +447,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZZAZBCNI
 
-[Document26]
+[Document25]
 DocumentPath=..\..\Pcb\Connector\USB-B-S-X-X-TH.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +464,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CPGXBLVI
 
-[Document27]
+[Document26]
 DocumentPath=Jumper 2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +481,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VKVDLGEE
 
-[Document28]
+[Document27]
 DocumentPath=..\..\Pcb\Connector\PLD2-20.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +498,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XUCPKWNG
 
-[Document29]
+[Document28]
 DocumentPath=..\..\Pcb\Connector\MDM-31.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +515,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document29]
 DocumentPath=..\..\Pcb\Connector\PBD2-6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +532,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AUKMGSBO
 
-[Document31]
+[Document30]
 DocumentPath=..\..\Pcb\Connector\PBD-6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,24 +549,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NJAROVKQ
 
-[Document32]
-DocumentPath=..\..\Pcb\Connector\PBD-6_1.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SVHJXIPD
-
-[Document33]
+[Document31]
 DocumentPath=..\..\Pcb\Connector\PLS2-3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -598,7 +566,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XUCPKWNG
 
-[Document34]
+[Document32]
 DocumentPath=Header 2X2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -615,7 +583,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CWIVUILE
 
-[Document35]
+[Document33]
 DocumentPath=..\..\Pcb\Connector\PLS2-2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -632,7 +600,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NYKBBEXK
 
-[Document36]
+[Document34]
 DocumentPath=..\..\Pcb\Connector\PLS-2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -649,7 +617,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JSGCMMBR
 
-[Document37]
+[Document35]
 DocumentPath=Jumper 3.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -666,7 +634,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IRNWKNPF
 
-[Document38]
+[Document36]
 DocumentPath=EPG.0B.302.HLN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -683,7 +651,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ONLVAEBU
 
-[Document39]
+[Document37]
 DocumentPath=EPY.00.250.NTN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -700,7 +668,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MJWPFSCT
 
-[Document40]
+[Document38]
 DocumentPath=..\..\Pcb\Connector\EPG.0B.302.HLN.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -717,7 +685,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LKVTXMBF
 
-[Document41]
+[Document39]
 DocumentPath=..\..\Pcb\Connector\EPK.00.250.NTN.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -734,7 +702,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OXEOQEQG
 
-[Document42]
+[Document40]
 DocumentPath=EPK.00.250.NTN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -751,7 +719,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NVUGLUYQ
 
-[Document43]
+[Document41]
 DocumentPath=..\..\Pcb\Connector\EPY.00.250.NTN.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -768,7 +736,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IJWABLIR
 
-[Document44]
+[Document42]
 DocumentPath=SNP411-9.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -785,7 +753,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YVQAEVVG
 
-[Document45]
+[Document43]
 DocumentPath=SNP411-31.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -802,7 +770,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GEUEFSID
 
-[Document46]
+[Document44]
 DocumentPath=SNP411-15.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -819,7 +787,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WVSRTMJL
 
-[Document47]
+[Document45]
 DocumentPath=..\..\Pcb\Connector\SNP411-9.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -836,7 +804,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CPGXBLVI
 
-[Document48]
+[Document46]
 DocumentPath=..\..\Pcb\Connector\SNP411-31.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -853,7 +821,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CGVUNWHP
 
-[Document49]
+[Document47]
 DocumentPath=..\..\Pcb\Connector\SNP411-15.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -870,7 +838,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document50]
+[Document48]
 DocumentPath=ASP-134488-01.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -887,7 +855,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SHCATMMR
 
-[Document51]
+[Document49]
 DocumentPath=ASP-134486-01.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -904,7 +872,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OLBEAEYM
 
-[Document52]
+[Document50]
 DocumentPath=..\..\Pcb\Connector\ASP-134486-01.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -921,7 +889,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GSIRTQHO
 
-[Document53]
+[Document51]
 DocumentPath=..\..\Pcb\Connector\ASP-134488-01.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -938,7 +906,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HJJXUPNH
 
-[Document54]
+[Document52]
 DocumentPath=MicroUSB.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -955,7 +923,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IGNLVQGA
 
-[Document55]
+[Document53]
 DocumentPath=..\..\Pcb\Connector\USB Micro-BF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -972,7 +940,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CPGXBLVI
 
-[Document56]
+[Document54]
 DocumentPath=..\..\Pcb\Connector\MicroUSB-Molex-105017.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -989,7 +957,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PESIUBRL
 
-[Document57]
+[Document55]
 DocumentPath=DS1073-01-2x4.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1006,7 +974,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PGMXYBBY
 
-[Document58]
+[Document56]
 DocumentPath=..\..\Pcb\Connector\KLS1-4.20-2X04-R.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1023,7 +991,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FTLYYMEF
 
-[Document59]
+[Document57]
 DocumentPath=FX10A-168P-SV(71).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1040,7 +1008,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MLTWXMBK
 
-[Document60]
+[Document58]
 DocumentPath=..\..\Pcb\Connector\FX10A-168P-SV(71).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1057,7 +1025,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JOGAVYIL
 
-[Document61]
+[Document59]
 DocumentPath=PCIe_x1_edge.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1074,7 +1042,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UUWMWSRW
 
-[Document62]
+[Document60]
 DocumentPath=..\..\Pcb\Connector\PCIe_x1_edge.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1091,7 +1059,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HTRPOBME
 
-[Document63]
+[Document61]
 DocumentPath=74441-0001.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1108,7 +1076,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MAWZFYAK
 
-[Document64]
+[Document62]
 DocumentPath=..\..\Pcb\Connector\74441-0001.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1125,7 +1093,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GCXUDEUW
 
-[Document65]
+[Document63]
 DocumentPath=74754-0220.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1142,7 +1110,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LGYUIZYP
 
-[Document66]
+[Document64]
 DocumentPath=..\..\Pcb\Connector\74754-0220.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1159,7 +1127,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FDDUXELU
 
-[Document67]
+[Document65]
 DocumentPath=L826-1X1T-43-F.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1176,7 +1144,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DUARLXFN
 
-[Document68]
+[Document66]
 DocumentPath=..\..\Pcb\Custom\L826-1X1T-43-F.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1193,7 +1161,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document69]
+[Document67]
 DocumentPath=503182-011.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1210,7 +1178,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SQRTVUYA
 
-[Document70]
+[Document68]
 DocumentPath=..\..\Pcb\Custom\503182-011.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1227,8 +1195,59 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WDHFQYXX
 
-[Document71]
+[Document69]
 DocumentPath=..\..\Pcb\Connector\PBD2-10S.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UPAJYSPB
+
+[Document70]
+DocumentPath=..\..\Pcb\Connector\PLD2-10.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SLEBYCDJ
+
+[Document71]
+DocumentPath=..\..\Pcb\Connector\SD87340-20.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SBLYUQNU
+
+[Document72]
+DocumentPath=..\..\Pcb\Connector\PBD-8.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1244,25 +1263,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document72]
-DocumentPath=..\..\Pcb\Connector\PLS-7.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CPGXBLVI
-
 [Document73]
-DocumentPath=..\..\Pcb\Connector\PBD-8.PcbLib
+DocumentPath=..\..\Pcb\Connector\DS1013-10R.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1276,10 +1278,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FNMYOIWO
+DocumentUniqueId=
 
 [Document74]
-DocumentPath=Header 2X10 single.Schlib
+DocumentPath=..\..\Pcb\Connector\S10B-PHDSS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1293,10 +1295,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WKYPWEMN
+DocumentUniqueId=RSWNADBT
 
 [Document75]
-DocumentPath=Header 1x2.SchLib
+DocumentPath=..\..\Pcb\Connector\DS1013-20R.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1310,9 +1312,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HHUDRBNS
+DocumentUniqueId=CSLGWMPQ
 
 [Document76]
+<<<<<<< HEAD
 DocumentPath=Header 2X25.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1348,6 +1351,9 @@ DocumentUniqueId=DYRMJLYK
 
 [Document78]
 DocumentPath=..\..\Pcb\Connector\PLD2-10.PcbLib
+=======
+DocumentPath=Header 1x3.SchLib
+>>>>>>> master
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1361,10 +1367,15 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XIRXGAGJ
 
+<<<<<<< HEAD
 [Document79]
 DocumentPath=..\..\Pcb\Connector\SD87340-20.PcbLib
+=======
+[Document77]
+DocumentPath=..\..\Pcb\Connector\PLS2-4.PcbLib
+>>>>>>> master
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1378,12 +1389,267 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NYKBBEXK
+
+[Document78]
+DocumentPath=..\..\Pcb\Connector\PLS-4.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JSGCMMBR
+
+[Document79]
+DocumentPath=PicoBlade_53261-0671.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TSFGGWKS
+
+[Document80]
+DocumentPath=..\..\Pcb\Connector\53261-0471.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VSVMYHLE
+
+[Document81]
+DocumentPath=..\..\Pcb\Connector\53261-0671.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VSVMYHLE
+
+[Document82]
+DocumentPath=DS1120-96M-R13.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GBJDROKZ
+
+[Document83]
+DocumentPath=..\..\Pcb\Connector\DS1120-96M-R13.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RRGQMWMP
+
+[Document84]
+DocumentPath=DRB-9MA.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QRPHQGSM
+
+[Document85]
+DocumentPath=..\..\Pcb\Connector\DRB-9MA.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FHTPVYGO
+
+[Document86]
+DocumentPath=PicoBlade_53261-0471.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EQKRGECK
+
+[Document87]
+DocumentPath=IPEX_MHF.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LOSQMMEQ
+
+[Document88]
+DocumentPath=..\..\Pcb\Connector\IPEX_MHF.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IRCFUBIB
+
+[Document89]
+DocumentPath=SH_1.0_4.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KFCZPLNE
+
+[Document90]
+DocumentPath=SH_1.0_6.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EEPSADHT
+
+[Document91]
+DocumentPath=..\..\Pcb\Connector\SH_1.0_4.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XQPSDDBL
+
+[Document92]
+DocumentPath=..\..\Pcb\Connector\SH_1.0_6.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XQPSDDBL
 
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=OneNote for Windows 10
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -1489,7 +1755,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=ECOSYS M4132idn
+TargetPrinter=HP LaserJet Pro MFP M521 PCL 6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1567,7 +1833,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=OneNote for Windows 10
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -1589,7 +1855,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=OneNote for Windows 10
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -1661,7 +1927,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=OneNote for Windows 10
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -1694,16 +1960,17 @@ OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=GOSTBOM
-OutputName7=GOST BOM
+OutputType7=Export Comments
+OutputName7=Export Comments
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=OneNote for Windows 10
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1811,7 +2078,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=OneNote for Windows 10
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -1855,7 +2122,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=OneNote for Windows 10
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1912,11 +2179,41 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=OneNote for Windows 10
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -2239,6 +2536,8 @@ MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
 Type123=1
+Type124=1
+Type125=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -2306,12 +2605,12 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [Comparison Options]
-ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
-ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9

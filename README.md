@@ -4,7 +4,7 @@
 _______
 Библиотека разработана для совместной работы инженеров НГУ. Компоненты проверены и используются в 'боевых' проектах.
 
-![Пример sch](https://raw.githubusercontent.com/a-styuf/AD_lib/master/Documents/img/sch_example.png) 
+![Пример sch](https://raw.githubusercontent.com/a-styuf/AD_lib/master/Documents/img/sch_example.png)
 ![Пример pcb](https://raw.githubusercontent.com/a-styuf/AD_lib/master/Documents/img/3d_pcb_example.png)
 
 Любое использование свободно и "на свой страх и риск".  
@@ -113,6 +113,11 @@ git clone https://raw.githubusercontent.com/a-styuf/AD_lib.git
 1. Папка */img* - картинки для описания.
 2. Остальное - дополнительный материал по созданию печатных плат.
 3. Settings *- рекомендуемые настройки Altium Designer*.
+
+# Полезные видео
+
+1. <https://www.youtube.com/watch?v=vZhALPFB9hw> - краткое видео о способах разводки в PCB
+2. <https://youtu.be/BnAOM6Ea2hU?t=435> - видео, показывающее как настраивать сортировку в ActiveBOM
 
 # Устранение ошибки отображения шрифта
 
