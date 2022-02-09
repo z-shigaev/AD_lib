@@ -1315,7 +1315,45 @@ GenerateClassCluster=0
 DocumentUniqueId=CSLGWMPQ
 
 [Document76]
+<<<<<<< HEAD
+DocumentPath=Header 2X25.Schlib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WNMIBYPY
+
+[Document77]
+DocumentPath=..\..\Pcb\Connector\PLD2-50.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DYRMJLYK
+
+[Document78]
+DocumentPath=..\..\Pcb\Connector\PLD2-10.PcbLib
+=======
 DocumentPath=Header 1x3.SchLib
+>>>>>>> master
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1331,8 +1369,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XIRXGAGJ
 
+<<<<<<< HEAD
+[Document79]
+DocumentPath=..\..\Pcb\Connector\SD87340-20.PcbLib
+=======
 [Document77]
 DocumentPath=..\..\Pcb\Connector\PLS2-4.PcbLib
+>>>>>>> master
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
