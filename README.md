@@ -131,14 +131,18 @@ git clone https://raw.githubusercontent.com/a-styuf/AD_lib.git
  Один из возможных способов следующий:
 
  1. Открываем **PCB List** со следующими настройками:
+
  ![PCB List](https://raw.githubusercontent.com/a-styuf/AD_lib/master/Documents/img/2023-01-24_10-53-15_PCB_List.png)
+
  2. Открываем  **PCB Filter** для  последующего поиска необходимых компонентов.
  3. Вводим форму поиска вручную, либо создаем через опцию **Find Similar Objects** используя галочку **Create Expression**:
   
  ![Create Expression](https://raw.githubusercontent.com/a-styuf/AD_lib/master/Documents/img/2023-01-24_10-59-42_Create_Expression.png)
+
  4. Используя параметричское задание имени добиваемся выделения одинаковых компонентов интересующих нас комнатах:
 
  ![Filter Expression](https://raw.githubusercontent.com/a-styuf/AD_lib/master/Documents/img/2023-01-24_11-01-44_FilterExpression.png)
+
  5. После выделения нужных объектов в **PCB List** появится список интересующих компонентов. Необходимо проверить,что бы у них совпадал Channel Offset; при необходимости поправить.
  6. Итеративно проверить для всех компонентов. После правки проблема с некорректным расположением компонентов должна уйти.
 
