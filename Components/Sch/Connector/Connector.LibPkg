@@ -1094,7 +1094,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GCXUDEUW
 
 [Document63]
-DocumentPath=74754-0220.SchLib
+DocumentPath=sfp_cage.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1672,11 +1672,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OZYSGDBP
 
 [Document97]
-<<<<<<< HEAD
 DocumentPath=..\..\Pcb\Connector\DS1013-10S.PcbLib
-=======
-DocumentPath=..\..\Pcb\Connector\2201778-1.PcbLib
->>>>>>> d56f7765701e1a6e2d9f73af73e93693042340f7
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1690,11 +1686,41 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-<<<<<<< HEAD
 DocumentUniqueId=GRKSVGIF
-=======
+
+[Document98]
+DocumentPath=..\..\Pcb\Connector\2201778-1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
 DocumentUniqueId=JYQIXWTS
->>>>>>> d56f7765701e1a6e2d9f73af73e93693042340f7
+
+[Document99]
+DocumentPath=..\..\Pcb\Connector\2007263-1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HQMQEEUD
 
 [OutputGroup1]
 Name=Netlist Outputs
