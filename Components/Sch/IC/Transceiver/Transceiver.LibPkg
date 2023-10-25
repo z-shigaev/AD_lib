@@ -31,17 +31,10 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
-CrossRefSheetStyle=1
-CrossRefLocationStyle=1
-CrossRefPorts=3
-CrossRefCrossSheets=1
-CrossRefSheetEntries=0
-CrossRefFollowFromMainSettings=1
 
 [Preferences]
 PrefsVaultGUID=
@@ -65,6 +58,23 @@ GenerateClassCluster=0
 DocumentUniqueId=XUYCAWXI
 
 [Document2]
+DocumentPath=..\..\..\Pcb\Standart\SOIC-8.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IXTWIFII
+
+[Document3]
 DocumentPath=5559IN73T OSM.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -81,7 +91,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VXBTXYUI
 
-[Document3]
+[Document4]
 DocumentPath=ISO1042.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -98,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SZCJBXZX
 
-[Document4]
+[Document5]
 DocumentPath=ISO1050.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -115,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TKNFONRY
 
-[Document5]
+[Document6]
 DocumentPath=..\..\..\Pcb\Standart\SOIC-8_W.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -132,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FRRDYBHO
 
-[Document6]
+[Document7]
 DocumentPath=..\..\..\Pcb\Standart\SOP-8.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -149,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NMGRUNQW
 
-[Document7]
+[Document8]
 DocumentPath=MAX3232.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -166,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LIBVGRBC
 
-[Document8]
+[Document9]
 DocumentPath=..\..\..\Pcb\Standart\TSSOP-16N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -183,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SLUJNJAS
 
-[Document9]
+[Document10]
 DocumentPath=SN74LXC8T245PWR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -200,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MJOQARLJ
 
-[Document10]
+[Document11]
 DocumentPath=..\..\..\Pcb\Standart\TSSOP-24.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -217,7 +227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YSCUMPOU
 
-[Document11]
+[Document12]
 DocumentPath=SN74ABT125D.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -234,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VRMFUNNX
 
-[Document12]
+[Document13]
 DocumentPath=..\..\..\Pcb\Standart\SOIC-14.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -251,7 +261,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XUCPKWNG
 
-[Document13]
+[Document14]
+DocumentPath=TJA1050 .Schlib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=INRWSFMW
+
+[Document15]
 DocumentPath=TXS0108EPWR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -268,7 +295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QNAAYDZV
 
-[Document14]
+[Document16]
 DocumentPath=..\..\..\Pcb\Standart\TSSOP-20.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -285,7 +312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WTQIJPRT
 
-[Document15]
+[Document17]
 DocumentPath=..\..\..\Pcb\Standart\SOP-8_ISO1050.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -302,24 +329,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VSRNJZLQ
 
-[Document16]
-DocumentPath=5575BB044.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JWSWHJLZ
-
-[Document17]
+[Document18]
 DocumentPath=..\..\..\Pcb\Standart\MK 4159.48-1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -335,6 +345,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LCAHJPEV
+
+[Document19]
+DocumentPath=5575BB044.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JWSWHJLZ
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -445,7 +472,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=RICOH SP 230SFNw
+TargetPrinter=ECOSYS M4132idn
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -662,6 +689,11 @@ OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=GOSTBOM
+OutputName9=GOST BOM
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
 
 [OutputGroup7]
 Name=Other Outputs
