@@ -1910,6 +1910,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PFNTXVMS
 
+[Document111]
+DocumentPath=..\..\Pcb\Connector\PLD-12R.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RBFLNADV
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
