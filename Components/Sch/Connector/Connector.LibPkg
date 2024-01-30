@@ -24,14 +24,12 @@ ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=0
-NewIndexingOfSheetSymbols=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -1340,40 +1338,6 @@ GenerateClassCluster=0
 DocumentUniqueId=DYRMJLYK
 
 [Document77]
-DocumentPath=..\..\Pcb\Connector\53261-0471.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VSVMYHLE
-
-[Document78]
-DocumentPath=..\..\Pcb\Connector\53261-0671.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GEQUGQIC
-
-[Document79]
 DocumentPath=DS1120-96M-R13.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1390,7 +1354,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GBJDROKZ
 
-[Document80]
+[Document78]
 DocumentPath=..\..\Pcb\Connector\DS1120-96M-R13.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1407,7 +1371,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RRGQMWMP
 
-[Document81]
+[Document79]
 DocumentPath=DRB-9MA.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1424,7 +1388,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QRPHQGSM
 
-[Document82]
+[Document80]
 DocumentPath=..\..\Pcb\Connector\DRB-9MA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1441,24 +1405,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FHTPVYGO
 
-[Document83]
-DocumentPath=PicoBlade_53261-0471.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EQKRGECK
-
-[Document84]
+[Document81]
 DocumentPath=IPEX_MHF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1475,7 +1422,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LOSQMMEQ
 
-[Document85]
+[Document82]
 DocumentPath=..\..\Pcb\Connector\IPEX_MHF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1492,7 +1439,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IRCFUBIB
 
-[Document86]
+[Document83]
 DocumentPath=SH_1.0_4.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1509,7 +1456,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KFCZPLNE
 
-[Document87]
+[Document84]
 DocumentPath=SH_1.0_6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1526,7 +1473,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EEPSADHT
 
-[Document88]
+[Document85]
 DocumentPath=..\..\Pcb\Connector\SH_1.0_4.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1543,7 +1490,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XQPSDDBL
 
-[Document89]
+[Document86]
 DocumentPath=..\..\Pcb\Connector\SH_1.0_6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1560,7 +1507,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PASPTAFC
 
-[Document90]
+[Document87]
 DocumentPath=..\..\Pcb\Connector\TP_HOLE_1_05.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1577,7 +1524,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HPKLCHSF
 
-[Document91]
+[Document88]
 DocumentPath=..\..\Pcb\Connector\TP_PAD_1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1594,7 +1541,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YYBURYAN
 
-[Document92]
+[Document89]
 DocumentPath=..\..\Pcb\Connector\PLS2-4.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1611,7 +1558,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WMGNXBIB
 
-[Document93]
+[Document90]
 DocumentPath=..\..\Pcb\Connector\PLS-4.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1628,7 +1575,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BNJNOPPE
 
-[Document94]
+[Document91]
 DocumentPath=Header 2X30.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1645,7 +1592,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IMLKUYGP
 
-[Document95]
+[Document92]
 DocumentPath=..\..\Pcb\Connector\MicroUSB-Molex-105133.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1662,7 +1609,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TBPIXRCO
 
-[Document96]
+[Document93]
 DocumentPath=..\..\Pcb\Connector\PLD2-60.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1679,7 +1626,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OZYSGDBP
 
-[Document97]
+[Document94]
 DocumentPath=..\..\Pcb\Connector\DS1013-10S.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1696,7 +1643,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GRKSVGIF
 
-[Document98]
+[Document95]
 DocumentPath=..\..\Pcb\Connector\2201778-1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1713,7 +1660,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JYQIXWTS
 
-[Document99]
+[Document96]
 DocumentPath=..\..\Pcb\Connector\2007263-1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1730,7 +1677,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HQMQEEUD
 
-[Document100]
+[Document97]
 DocumentPath=Molex-SD-73415-298.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1747,7 +1694,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UQBCROQQ
 
-[Document101]
+[Document98]
 DocumentPath=..\..\Pcb\Connector\Molex-SD-73415-298.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1764,7 +1711,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NTTSQTDN
 
-[Document102]
+[Document99]
 DocumentPath=Header 2X50.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1781,7 +1728,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PSFVXCLQ
 
-[Document103]
+[Document100]
 DocumentPath=..\..\Pcb\Connector\PBD-50.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1798,7 +1745,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WWQCPVAD
 
-[Document104]
+[Document101]
 DocumentPath=Header 2X26.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1815,7 +1762,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AAHEBUJV
 
-[Document105]
+[Document102]
 DocumentPath=..\..\Pcb\Connector\SD87340-26.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1832,7 +1779,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document106]
+[Document103]
 DocumentPath=..\..\Pcb\Connector\PLD2-26.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1847,9 +1794,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DYRMJLYK
 
-[Document107]
+[Document104]
 DocumentPath=Header 2X24.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1866,7 +1813,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VTNMFFJV
 
-[Document108]
+[Document105]
 DocumentPath=..\..\Pcb\Connector\PLD2-24R.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1883,7 +1830,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BJBPANFO
 
-[Document109]
+[Document106]
 DocumentPath=..\..\Pcb\Connector\PBS-4.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1899,6 +1846,142 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ERAPNAZJ
+
+[Document107]
+DocumentPath=ESQ-126-39-G-D.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QSYLIDEC
+
+[Document108]
+DocumentPath=..\..\Pcb\Connector\ESQ-126-39-G-D.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document109]
+DocumentPath=PicoBlade_53261-0471.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EQKRGECK
+
+[Document110]
+DocumentPath=PicoBlade_53261-0671.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TSFGGWKS
+
+[Document111]
+DocumentPath=PicoBlade_53261-0871.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CFTQTCAM
+
+[Document112]
+DocumentPath=..\..\Pcb\Connector\53261-0471.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VSVMYHLE
+
+[Document113]
+DocumentPath=..\..\Pcb\Connector\53261-0671.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PSEMOHBF
+
+[Document114]
+DocumentPath=..\..\Pcb\Connector\53261-0871.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PSEMOHBF
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -2005,42 +2088,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=Mixed Sim Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-OutputType22=SIMetrixNetlist
-OutputName22=SIMetrix
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=SIMPLISNetlist
-OutputName23=SIMPLIS
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=ECOSYS M4132idn
+TargetPrinter=Kyocera ECOSYS M4132idn
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -2050,7 +2103,7 @@ PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate
 OutputType1=Composite
 OutputName1=Composite Drawing
 OutputDocumentPath1=
-OutputVariantName1=
+OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType2=PCB 3D Print
@@ -2068,13 +2121,13 @@ PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType4=PCB Print
 OutputName4=PCB Prints
 OutputDocumentPath4=
-OutputVariantName4=
+OutputVariantName4=[No Variations]
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType5=PCBLIB Print
 OutputName5=PCBLIB Prints
 OutputDocumentPath5=
-OutputVariantName5=
+OutputVariantName5=[No Variations]
 OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType6=PDF3D
@@ -2113,18 +2166,6 @@ OutputDocumentPath11=
 OutputVariantName11=[No Variations]
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=Harness Layout Drawing Print
-OutputName12=Harness Layout Drawing Prints
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType13=Harness Wiring Diagram Print
-OutputName13=Harness Wiring Diagram Prints
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -2162,13 +2203,13 @@ PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType2=CompositeDrill
 OutputName2=Composite Drill Drawing
 OutputDocumentPath2=
-OutputVariantName2=
+OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType3=Drill
 OutputName3=Drill Drawing/Guides
 OutputDocumentPath3=
-OutputVariantName3=
+OutputVariantName3=[No Variations]
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType4=Final
@@ -2185,17 +2226,17 @@ OutputDefault5=0
 OutputType6=Gerber X2
 OutputName6=Gerber X2 Files
 OutputDocumentPath6=
-OutputVariantName6=
+OutputVariantName6=[No Variations]
 OutputDefault6=0
 OutputType7=IPC2581
 OutputName7=IPC-2581 Files
 OutputDocumentPath7=
-OutputVariantName7=
+OutputVariantName7=[No Variations]
 OutputDefault7=0
 OutputType8=Mask
 OutputName8=Solder/Paste Mask Prints
 OutputDocumentPath8=
-OutputVariantName8=
+OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType9=NC Drill
@@ -2211,7 +2252,7 @@ OutputDefault10=0
 OutputType11=Plane
 OutputName11=Power-Plane Prints
 OutputDocumentPath11=
-OutputVariantName11=
+OutputVariantName11=[No Variations]
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType12=Test Points
@@ -2268,12 +2309,11 @@ OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=Project History
-OutputName9=Project History
+OutputType9=GOSTBOM
+OutputName9=GOST BOM
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
@@ -2487,41 +2527,6 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Web ReviewOutputName
-OutputName12=Web Review Data
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Orcad v7 Capture Design
-OutputName15=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD ASCII
-OutputName16=P-CAD ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD V16 Schematic Design
-OutputName17=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=SiSoft
-OutputName18=SiSoft (AutoPCB)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -2654,7 +2659,6 @@ Type116=1
 Type117=1
 Type118=1
 Type119=1
-Type120=1
 
 [Difference Levels]
 Type1=1
@@ -2846,13 +2850,12 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
+MultiChannelAlternate=0
 AlternateItemFail=3
 Type122=2
 Type123=1
 Type124=1
 Type125=1
-Type126=1
-Type127=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
