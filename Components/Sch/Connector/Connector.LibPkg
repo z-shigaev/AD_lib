@@ -36,12 +36,6 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
-CrossRefSheetStyle=1
-CrossRefLocationStyle=1
-CrossRefPorts=3
-CrossRefCrossSheets=1
-CrossRefSheetEntries=0
-CrossRefFollowFromMainSettings=1
 
 [Preferences]
 PrefsVaultGUID=
@@ -1918,6 +1912,23 @@ GenerateClassCluster=0
 DocumentUniqueId=TSFGGWKS
 
 [Document111]
+DocumentPath=..\..\Pcb\Connector\VALCON_CSP-USC16-TR.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SWPQZOSH
+
+[Document112]
 DocumentPath=PicoBlade_53261-0871.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1934,8 +1945,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CFTQTCAM
 
+<<<<<<< Updated upstream
 [Document112]
 DocumentPath=PicoBlade_53261-1071.SchLib
+=======
+[Document113]
+DocumentPath=CSP-USC16-TR.SchLib
+>>>>>>> Stashed changes
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1949,9 +1965,15 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< Updated upstream
 DocumentUniqueId=PNEXZAIJ
 
 [Document113]
+=======
+DocumentUniqueId=OCQHJGIA
+
+[Document114]
+>>>>>>> Stashed changes
 DocumentPath=..\..\Pcb\Connector\53261-0471.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1968,7 +1990,11 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VSVMYHLE
 
+<<<<<<< Updated upstream
 [Document114]
+=======
+[Document115]
+>>>>>>> Stashed changes
 DocumentPath=..\..\Pcb\Connector\53261-0671.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1985,7 +2011,11 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PSEMOHBF
 
+<<<<<<< Updated upstream
 [Document115]
+=======
+[Document116]
+>>>>>>> Stashed changes
 DocumentPath=..\..\Pcb\Connector\53261-0871.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2228,7 +2258,7 @@ OutputDefault23=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Kyocera ECOSYS M4132idn
+TargetPrinter=ECOSYS M4132idn
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
