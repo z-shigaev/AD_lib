@@ -168,23 +168,6 @@ GenerateClassCluster=0
 DocumentUniqueId=VWUEHGGD
 
 [Document8]
-DocumentPath=..\..\..\Pcb\Standart\SOT230.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UPXPSTPO
-
-[Document9]
 DocumentPath=1278ER1T.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ECEDHCRS
 
-[Document10]
+[Document9]
 DocumentPath=..\..\..\Pcb\Standart\SOT89.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=LM317.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WLHNYZZI
 
-[Document12]
+[Document11]
 DocumentPath=..\..\..\Pcb\Standart\D2Pak.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document12]
 DocumentPath=LM337.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZUIZSSYR
 
-[Document14]
+[Document13]
 DocumentPath=..\..\..\Pcb\Standart\SOT-223.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -284,7 +267,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XMPUYQDT
 
 [OutputGroup1]
 Name=Netlist Outputs
