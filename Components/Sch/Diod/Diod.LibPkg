@@ -593,7 +593,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UHPOQAME
 
 [Document33]
-DocumentPath=..\..\Pcb\Standart\DO-41.PcbLib
+DocumentPath=..\..\Pcb\Standart\DO-35.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -607,7 +607,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OREFDPEE
 
 [Document34]
 DocumentPath=..\..\Pcb\Custom\GNL-3012.PcbLib
