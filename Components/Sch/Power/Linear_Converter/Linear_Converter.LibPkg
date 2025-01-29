@@ -270,7 +270,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZUIZSSYR
 
 [Document14]
-DocumentPath=..\..\..\Pcb\Standart\SOT223.PcbLib
+DocumentPath=..\..\..\Pcb\Standart\SOT-223.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -284,7 +284,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XMPUYQDT
+DocumentUniqueId=
 
 [OutputGroup1]
 Name=Netlist Outputs
