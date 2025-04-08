@@ -21,7 +21,7 @@ TargetOutputMedium=Gerbers
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Phaser 7100N
+TargetPrinter=ECOSYS M4132idn k443
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print To Îòïðàâèòü â OneNote 2013
 OutputMedium1_Type=Printer
@@ -255,7 +255,7 @@ Configuration12_Item1=Record=ExportDXFView|ACadVersion=60|UseRoundedTracks=True|
 [PublishSettings]
 OutputFilePath2=D:\YandexDisk\Work\Altium\NSU\ÁÄÄ\bdd\bdd_pcb\bdd_mcu\Project Outputs for bdd_mcu\general_pdf\bdd_mcu.PDF
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for bdd_cross_back
+OutputBasePath2=Project Outputs for Free Documents
 OutputPathMedia2=[Media Name]
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -306,7 +306,7 @@ WebOutputMediumType3=FS
 OutputDirectory3=D:\Dropbox\Work\Altium\NSU\ÌÁÊÀÏ\COM\Project Outputs for COM\WebOutput
 OutputFilePath4=D:\YandexDisk\Work\Altium\NSU\ÁÄÄ\bdd\bdd_pcb\bdd_cross_back\Project Outputs for bdd_cross_back\
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for bdd_cross_back
+OutputBasePath4=Project Outputs for Free Documents
 OutputPathMedia4=
 OutputPathMediaValue4=3d_com
 OutputPathOutputer4=[Output Type]
@@ -319,7 +319,7 @@ OutputFileNameSpecial4=
 OpenOutput4=0
 OutputFilePath5=D:\YandexDisk\Work\Altium\NSU\ÁÄÄ\bdd\bdd_pcb\bdd_cross_back\Project Outputs for bdd_cross_back\Gerbers\
 ReleaseManaged5=1
-OutputBasePath5=Project Outputs for bdd_cross_back
+OutputBasePath5=Project Outputs for Free Documents
 OutputPathMedia5=[Media Name]
 OutputPathMediaValue5='=ProjectName'
 OutputPathOutputer5=[Output Custom]
@@ -332,7 +332,7 @@ OutputFileNameSpecial5=
 OpenOutput5=1
 OutputFilePath6=D:\YandexDisk\Work\Altium\NSU\ÁÄÄ\bdd\bdd_pcb\bdd_mcu\Project Outputs for bdd_mcu\
 ReleaseManaged6=1
-OutputBasePath6=Project Outputs for bdd_cross_back
+OutputBasePath6=Project Outputs for Free Documents
 OutputPathMedia6=
 OutputPathMediaValue6=
 OutputPathOutputer6=[Output Type]
