@@ -269,6 +269,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JHFMJIAV
 
+[Document14]
+DocumentPath=..\..\..\Pcb\Custom\5142.48-А_LFCSP-32.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UUQMNLKM
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
