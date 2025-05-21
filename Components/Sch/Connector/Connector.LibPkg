@@ -2658,6 +2658,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NSLJTAPP
 
+[Document155]
+DocumentPath=..\..\Pcb\Connector\2007178-1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GTUQDSBX
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
