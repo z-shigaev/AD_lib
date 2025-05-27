@@ -2571,7 +2571,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NOMYVHWT
 
 [Document150]
 DocumentPath=Header 1X7.Schlib
@@ -2588,7 +2588,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VWGUUPSU
 
 [Document151]
 DocumentPath=..\..\Pcb\Connector\JST-B2B-XH-A.PcbLib
@@ -2622,7 +2622,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FTLYYMEF
 
 [Document153]
 DocumentPath=KLS1-4.20-2x12.Schlib
@@ -2639,7 +2639,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PGMXYBBY
+DocumentUniqueId=EMGPTDDC
 
 [Document154]
 DocumentPath=..\..\Pcb\Connector\47053-001.PcbLib
@@ -2691,6 +2691,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FTLYYMEF
+
+[Document157]
+DocumentPath=..\..\Pcb\Connector\KLS1-4.20-2X12.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [OutputGroup1]
 Name=Netlist Outputs
