@@ -803,7 +803,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VLQWHIMR
+DocumentUniqueId=CPGXBLVI
 
 [Document46]
 DocumentPath=..\..\Pcb\Connector\SNP411-31.PcbLib
@@ -973,7 +973,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PGMXYBBY
+DocumentUniqueId=WXDOGHLU
 
 [Document56]
 DocumentPath=..\..\Pcb\Connector\DS1073-01-2x4-MR.PcbLib
@@ -1789,7 +1789,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ORRSRRSU
+DocumentUniqueId=DYRMJLYK
 
 [Document104]
 DocumentPath=Header 2X24.SchLib
@@ -2571,7 +2571,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ERJVINCT
+DocumentUniqueId=SLEIXCBH
 
 [Document150]
 DocumentPath=Header 1X7.Schlib
@@ -2708,6 +2708,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LIHEWQXC
+
+[Document158]
+DocumentPath=Header 2x7.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=USZJLUHC
+
+[Document159]
+DocumentPath=..\..\Pcb\Connector\DS1014-14SF1B.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JAHGMQTL
 
 [OutputGroup1]
 Name=Netlist Outputs
