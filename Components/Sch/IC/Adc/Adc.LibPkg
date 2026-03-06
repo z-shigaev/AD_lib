@@ -287,7 +287,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OVNGARMK
 
 [Document15]
-DocumentPath=..\..\..\Pcb\Custom\5142.48-А_SHIELD_LFCSP-32.PcbLib
+DocumentPath=..\..\..\Pcb\Custom\LFCSP-32_5142.48-А_SHIELD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

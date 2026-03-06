@@ -2565,6 +2565,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+<<<<<<< HEAD
+[Document150]
+DocumentPath=..\..\Pcb\Connector\PLD2-10-EDGE.PcbLib
+=======
 [Document149]
 DocumentPath=Header 1x2.SchLib
 AnnotationEnabled=1
@@ -2805,6 +2809,7 @@ DocumentUniqueId=UGRVKSKS
 
 [Document163]
 DocumentPath=Header 2X28.Schlib
+>>>>>>> 1c5a26f261e019c100bab4d241776a80464e2530
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2818,6 +2823,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD
+DocumentUniqueId=FLQLECLJ
+=======
 DocumentUniqueId=NWANNREI
 
 [Document164]
@@ -2853,6 +2861,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+>>>>>>> 1c5a26f261e019c100bab4d241776a80464e2530
 
 [OutputGroup1]
 Name=Netlist Outputs
